@@ -1,3 +1,16 @@
 {
-	"name": "InliningExample"
+    "name": "InliningExample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:35259b67c3b3a4e898c2c72cf1e5045a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
